@@ -1,6 +1,6 @@
 # Assignment_No_1 Exploratory Data Analysis
 
-# use housing.csv datset
+# use housing.csv dataset
 
 Each record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. The attributes are deﬁned as follows (taken from the UCI Machine Learning Repository1): CRIM: per capita crime rate by town
 
